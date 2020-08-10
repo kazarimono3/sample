@@ -77,10 +77,11 @@ footer {
 /*-----------------------------------------------------------------
 	-smart-
 -----------------------------------------------------------------*/
-@media screen and (max-width:425px){
+@media screen and (max-width:479px){
 
 main {
    width: auto;
+   margin: 30px 0 30px 0;
  }
 
  .step-box {
